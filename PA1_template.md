@@ -56,10 +56,7 @@ loadLibrary <- function(lib) {
     } 
 }
 
-#loadLibrary("data.table")
-#loadLibrary("reshape2")
 loadLibrary("dplyr")
-#loadLibrary("tidyr")
 loadLibrary("tools")
 loadLibrary("ggplot2")
 loadLibrary("scales")
